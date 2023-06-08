@@ -1,9 +1,8 @@
+This site  contains my reading notes on the full stack coding bootcamp 
+
 ![hello world](https://www.cia.gov/the-world-factbook/static/778a257ec6e116fbb7aac018c170b3eb/14b42/wfb-feature-world.jpg)
 
-This site  contains my reading notes on the full stack coding bootcamp 
-***
-
-##  Table of contents
+##  Table of Contents
 
 **Code 102: Intro to Software Development** 
 - Class 01: [Learning Markdown](https://o-bola.github.io/reading-notes/102/class-01)
@@ -16,6 +15,7 @@ This site  contains my reading notes on the full stack coding bootcamp
 - Class 08: [Operations and Loops](https://o-bola.github.io/reading-notes/102/class-08)      
 
 **Code 201 Reading Notes** 
-> Updates to come
-***
+> Updates to come       
+
+
 *My Github profile is [here](https://github.com/o-bola)*
