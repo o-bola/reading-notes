@@ -1,8 +1,10 @@
-# Reading Notes
-This website contains my lesson notes on the Tech Eductors bootcamp  
-***
+![hello world](https://www.cia.gov/the-world-factbook/static/778a257ec6e116fbb7aac018c170b3eb/14b42/wfb-feature-world.jpg)
+This site  contains my reading notes on the full stack coding bootcamp 
+
+
 ##  Table of contents
-### Code 102 Reading Notes 
+***
+**Code 102: Intro to Software Development** 
 - Class 01: [Learning Markdown](https://o-bola.github.io/reading-notes/102/class-01)
 - Class 02: [The Coder's Computer](https://o-bola.github.io/reading-notes/102/class-02)
 - Class 03: [Revisions and the Cloud](https://o-bola.github.io/reading-notes/102/class-03)
@@ -10,27 +12,8 @@ This website contains my lesson notes on the Tech Eductors bootcamp
 - Class 05: [Design Web Pages with CSS](https://o-bola.github.io/reading-notes/102/class-05)
 - Class 06: [Dynamic Web Pages with JavaScript](https://o-bola.github.io/reading-notes/102/class-06)
 - Class 07: [Programming with JavaScript](https://o-bola.github.io/reading-notes/102/class-07)
-- Class 08: [Operations and Loops](https://o-bola.github.io/reading-notes/102/class-08)
-### Code 201 Reading Notes 
+- Class 08: [Operations and Loops](https://o-bola.github.io/reading-notes/102/class-08)      
 
-***
-## Heading size
+**Code 201 Reading Notes** 
 
-**Bold**   
-*italic*   
-***Bold italic*** 
-
-1. List item 1
-2. List item 2
-
-- List item 1
-- List item 2
-
-***
-Section break
-
-> Block quote    
-
-![Image description if cant find link](Imagelink)
-
-Link [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+> *My Github profile is [here](https://github.com/o-bola)*
